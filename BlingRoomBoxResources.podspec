@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.source_files = 'BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources.h'
   s.resource_bundles = {
     'XDFRoomBoxResources' => ['BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources/**/BlingRoomBoxResources.xcassets','BlingRoomBoxResources/BlingRoomBoxResources/Resources/**/*.{gif,png,json,plist,xib,zip,mp3,pdf}'],
-    'XDFRoomBoxResources_l' => ['XDFRoomBoxResources/XDFRoomBoxResources/Theme/bl-light/*.{xcassets,plist}'],
-    'XDFRoomBoxResources_d' => ['XDFRoomBoxResources/XDFRoomBoxResources/Theme/bl-dark/*.{xcassets,plist}']
+    'XDFRoomBoxResources_l' => ['BlingRoomBoxResources/BlingRoomBoxResources/Theme/bl-light/*.{xcassets,plist}'],
+    'XDFRoomBoxResources_d' => ['BlingRoomBoxResources/BlingRoomBoxResources/Theme/bl-dark/*.{xcassets,plist}']
   }
   
 end
