@@ -2,11 +2,11 @@ Pod::Spec.new do |s|
   s.name         = 'BlingRoomBoxResources'
   s.version      = '0.0.3' 
   s.summary      = 'xdf'
-  s.homepage     = "git@gitlab.66xue.com:specs/BlingRoomBoxResources.git"
+  s.homepage     = "https://gitlab.66xue.com/specs/BlingRoomBoxResources.git"
   s.license      = "MIT"
   s.author       = { "" => "" }
   s.social_media_url   = ""
-  s.source = {:git => 'git@gitlab.66xue.com:specs/BlingRoomBoxResources.git', :tag => s.version}
+  s.source = {:git => 'https://gitlab.66xue.com/specs/BlingRoomBoxResources.git', :tag => s.version}
   
   s.platform = :ios,'9.0'
   s.swift_version = '5.0'
