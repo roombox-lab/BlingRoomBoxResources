@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rb_color_txt_white100</key>
+	<string>#FFFFFF</string>
+	<key>rb_color_txt_declare</key>
+	<string>#FDF068</string>
+	<key>rb_color_txt_warn</key>
+	<string>#FA6446</string>
+	<key>rb_color_txt_normal100</key>
+	<string>#F2EEFF</string>
+	<key>rb_color_txt_normal80</key>
+	<string>#F2EEFFCC</string>
+	<key>rb_color_txt_normal70</key>
+	<string>#F2EEFFB2</string>
+	<key>rb_color_txt_normal50</key>
+	<string>#F2EEFF7F</string>
+	<key>rb_color_txt_normal34</key>
+	<string>#F2EEFF58</string>
+	<key>rb_color_txt_normal20</key>
+	<string>#F2EEFF33</string>
+	<key>rb_color_txt_normal5</key>
+	<string>#F2EEFF 0C</string>
+	<key>rb_color_txt_star100</key>
+	<string>#FFB246</string>
+	<key>rb_color_bg_rigthside</key>
+	<string>#210B6E</string>
+	<key>rb_color_bg_cyan90</key>
+	<string>#371589E5</string>
+	<key>rb_color_txt_dark80</key>
+	<string>#082633CC</string>
+	<key>rb_color_txt_dark40</key>
+	<string>#08263366</string>
+	<key>rb_color_bg_popup</key>
+	<string>#000000CC</string>
+	<key>rb_color_mask80</key>
+	<string>#000000CC</string>
+	<key>rb_color_mask50</key>
+	<string>#0000007F</string>
+	<key>rb_color_mask30</key>
+	<string>#0000004C</string>
+	<key>rb_color_mask20</key>
+	<string>#00000033</string>
+	<key>rb_color_bg_team</key>
+	<string>#44D7B6</string>
+	<key>rb_color_bg_teambg</key>
+	<string>#F6E8E80D</string>
+	<key>rb_color_txt_teamnumber</key>
+	<string>#EEE5F50D</string>
+	<key>rb_color_shadow_right</key>
+	<string>#98263333</string>
+	<key>rb_nav_progressbar_color_begin</key>
+	<string>#C2F63E</string>
+	<key>rb_nav_progressbar_color_end</key>
+	<string>#C2F63E</string>
+	<key>rb_color_txt_btn_line</key>
+	<string>#4F389B</string>
+</dict>
+</plist>
