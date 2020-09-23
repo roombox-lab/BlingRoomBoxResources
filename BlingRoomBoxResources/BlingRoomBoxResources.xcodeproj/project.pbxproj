@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		0F3FC4D4251AEC8A007CC2DB /* BlingRoomBoxResources.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F3FC4D2251AEC8A007CC2DB /* BlingRoomBoxResources.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0F3FC4E2251B327E007CC2DB /* whiteboard_roombox.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F3FC4E1251B327E007CC2DB /* whiteboard_roombox.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0F3FC4CF251AEC8A007CC2DB /* BlingRoomBoxResources.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BlingRoomBoxResources.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F3FC4D2251AEC8A007CC2DB /* BlingRoomBoxResources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlingRoomBoxResources.h; sourceTree = "<group>"; };
 		0F3FC4D3251AEC8A007CC2DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F3FC4E1251B327E007CC2DB /* whiteboard_roombox.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = whiteboard_roombox.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +58,17 @@
 		0F3FC4DA251AED61007CC2DB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				0F3FC4E0251B327E007CC2DB /* pdf */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		0F3FC4E0251B327E007CC2DB /* pdf */ = {
+			isa = PBXGroup;
+			children = (
+				0F3FC4E1251B327E007CC2DB /* whiteboard_roombox.pdf */,
+			);
+			path = pdf;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F3FC4E2251B327E007CC2DB /* whiteboard_roombox.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
