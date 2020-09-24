@@ -5,12 +5,12 @@
       "scale" : "1x"
     },
     {
-      "filename" : "rb_img_vedio_defalt@2x.png",
+      "filename" : "rb_btn_xs_line@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "rb_img_vedio_defalt@3x.png",
+      "filename" : "rb_btn_xs_line@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

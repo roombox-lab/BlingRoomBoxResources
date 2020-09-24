@@ -43,7 +43,7 @@
 	<key>rb_color_mask20</key>
 	<string>#00000033</string>
 	<key>rb_color_bg_team</key>
-	<string>#44D7B6</string>
+	<string>#6E4CD9</string>
 	<key>rb_color_bg_teambg</key>
 	<string>#F6E8E80D</string>
 	<key>rb_color_txt_teamnumber</key>
@@ -54,7 +54,11 @@
 	<string>#C2F63E</string>
 	<key>rb_nav_progressbar_color_end</key>
 	<string>#C2F63E</string>
-	<key>rb_color_txt_btn_line</key>
+	<key>rb_color_txt_btn_line_dark</key>
 	<string>#C7B6FF</string>
+	<key>rb_color_btn_txt_line_light</key>
+	<string>#C7B6FF</string>
+	<key>rb_color_btn_txt_full</key>
+	<string>#A05B18</string>
 </dict>
 </plist>

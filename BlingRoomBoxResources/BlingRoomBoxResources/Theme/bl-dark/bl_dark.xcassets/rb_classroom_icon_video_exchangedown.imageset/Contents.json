@@ -5,18 +5,18 @@
       "scale" : "1x"
     },
     {
+      "filename" : "rb_classroom_icon_video_exchangedown@2x.png",
       "idiom" : "universal",
-      "filename" : "rb_screen_control_icon_hi_quality@2x.png",
       "scale" : "2x"
     },
     {
+      "filename" : "rb_classroom_icon_video_exchangedown@3x.png",
       "idiom" : "universal",
-      "filename" : "rb_screen_control_icon_hi_quality@3x.png",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
