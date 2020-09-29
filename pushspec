@@ -3,7 +3,7 @@
 if [[ $1 != "" ]]; then
 
     echo "======开始修改spec文件版本号======"
-    sed -i "" "s/s.version.*=.*/s.version      = '$1' /g" XDFRoomBoxResources.podspec
+    sed -i "" "s/s.version.*=.*/s.version      = '$1' /g" BlingRoomBoxResources.podspec
 
     if [ $? -ne 0 ]; then
         echo "修改spec文件失败"
@@ -19,12 +19,16 @@ if [[ $1 != "" ]]; then
     #是否执行成功
     if [ $? -ne 0 ]; then
         echo "打tag失败"
-        pod repo push XDFRoomBoxSpec XDFRoomBoxResources.podspec --verbose --allow-warnings  --sources=git@dev.roombox.xdf.cn:app/iOS-Common/RoomBoxSpec.git,https://github.com/CocoaPods/Specs.git
+        pod repo push BlingRoomBoxSpec BlingRoomBoxResources.podspec --verbose --allow-warnings
+            --skip-import-validation
+            --sources=https://gitlab.66xue.com/specs/BlingRoomBoxSpec.git,https://github.com/CocoaPods/Specs.git
     else
         echo "打tag成功"
         git push --tags
         echo "======开始推送spec文件======"
-        pod repo push XDFRoomBoxSpec XDFRoomBoxResources.podspec --verbose --allow-warnings --sources=git@dev.roombox.xdf.cn:app/iOS-Common/RoomBoxSpec.git,https://github.com/CocoaPods/Specs.git
+        pod repo push BlingRoomBoxSpec BlingRoomBoxResources.podspec --verbose --allow-warnings
+            --skip-import-validation
+            --sources=https://gitlab.66xue.com/specs/BlingRoomBoxSpec.git,https://github.com/CocoaPods/Specs.git
     fi
 else
     echo "======请输入tag======"
