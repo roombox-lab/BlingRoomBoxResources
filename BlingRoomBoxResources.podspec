@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'BlingRoomBoxResources'
-  s.version      = '0.0.1' 
+  s.version      = '0.0.2' 
   s.summary      = 'xdf'
   s.homepage     = "https://gitlab.66xue.com/specs/BlingRoomBoxResources.git"
   s.license      = "MIT"
@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   s.source = {:git => 'https://gitlab.66xue.com/specs/BlingRoomBoxResources.git', :tag => s.version}
   
   s.platform = :ios,'9.0'
-  s.swift_version = '5.0'
   s.static_framework = true
 #  s.default_subspec = 'Core'
   s.ios.deployment_target = '9.0'
