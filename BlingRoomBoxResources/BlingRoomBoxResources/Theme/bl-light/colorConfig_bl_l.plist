@@ -60,5 +60,9 @@
 	<string>#C7B6FF</string>
 	<key>rb_color_btn_txt_full</key>
 	<string>#A05B18</string>
+	<key>rb_color_alert_btn_start</key>
+	<string>#84FFA5</string>
+	<key>rb_color_alert_btn_end</key>
+	<string>#00F8E8</string>
 </dict>
 </plist>
