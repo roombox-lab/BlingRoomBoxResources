@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.exclude_files = 'BlingRoomBoxResources/BlingRoomBoxResources/info.plist'
   s.source_files = 'BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources.h'
   s.resource_bundles = {
-    'XDFRoomBoxResources' => ['BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources/**/BlingRoomBoxResources.xcassets','BlingRoomBoxResources/BlingRoomBoxResources/Resources/**/*.{gif,png,json,plist,xib,zip,mp3,pdf}'],
+    'XDFRoomBoxResources' => ['BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources/**/BlingRoomBoxResources.xcassets','BlingRoomBoxResources/BlingRoomBoxResources/Resources/**/*.{xcassets,gif,png,json,plist,xib,zip,mp3,pdf,svga}'],
     'XDFRoomBoxResources_l' => ['BlingRoomBoxResources/BlingRoomBoxResources/Theme/bl-light/*.{xcassets,plist}'],
     'XDFRoomBoxResources_d' => ['BlingRoomBoxResources/BlingRoomBoxResources/Theme/bl-dark/*.{xcassets,plist}']
   }

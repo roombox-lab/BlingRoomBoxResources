@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rb_popup_txt_item_selected_l</key>
+	<string>#00DEB1</string>
+	<key>rb_popup_txt_item_selected_d</key>
+	<string>#00DEB1</string>
+	<key>rb_popup_txt_item_unselected_l</key>
+	<string>#BEF5F6B2</string>
+	<key>rb_popup_txt_item_unselected_d</key>
+	<string>#BEF5F6B2</string>
+	<key>rb_player_txt_title_l</key>
+	<string>#DADFE4</string>
+	<key>rb_player_txt_title_d</key>
+	<string>#DADFE4</string>
+	<key>rb_player_txt_time_l</key>
+	<string>#FFFFFFCC</string>
+	<key>rb_player_txt_time_d</key>
+	<string>#FFFFFFCC</string>
+	<key>rb_player_txt_time_sp_l</key>
+	<string>#FEFEFE80</string>
+	<key>rb_player_txt_time_sp_d</key>
+	<string>#FEFEFE80</string>
+	<key>rb_player_btn_txt_select_l</key>
+	<string>#09D198</string>
+	<key>rb_player_btn_txt_select_d</key>
+	<string>#09D198</string>
+	<key>rb_player_btn_txt_default_l</key>
+	<string>#233330CC</string>
+	<key>rb_player_btn_txt_default_d</key>
+	<string>#233330CC</string>
+	<key>rb_player_txt_normal34_l</key>
+	<string>#5A5A5A</string>
+	<key>rb_player_txt_normal34_d</key>
+	<string>#5A5A5A</string>
+	<key>rb_player_knowledge_cell_time_default_l</key>
+	<string>#DADFE480</string>
+	<key>rb_player_knowledge_cell_time_selected_l</key>
+	<string>#21EC90</string>
+	<key>rb_player_knowledge_cell_des_selected_l</key>
+	<string>#21EC90</string>
+	<key>rb_player_knowledge_cell_des_default_l</key>
+	<string>#DADFE4</string>
+	<key>rb_player_knowledge_cell_time_default_d</key>
+	<string>#DADFE480</string>
+	<key>rb_player_knowledge_cell_time_selected_d</key>
+	<string>#21EC90</string>
+	<key>rb_player_knowledge_cell_des_selected_d</key>
+	<string>#21EC90</string>
+	<key>rb_player_knowledge_cell_des_default_d</key>
+	<string>#DADFE4</string>
+</dict>
+</plist>
