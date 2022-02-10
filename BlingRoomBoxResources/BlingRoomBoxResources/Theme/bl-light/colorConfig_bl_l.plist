@@ -2,6 +2,50 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>rb_v1_timer_grad_c2_2</key>
+	<string>#2FBC96</string>
+	<key>rb_v1_timer_grad_c2_1</key>
+	<string>#82FFA2</string>
+	<key>rb_v1_btn_grad_c2_2</key>
+	<string>#53AF8C</string>
+	<key>rb_v1_btn_grad_c2_1</key>
+	<string>#7CC89D</string>
+	<key>rb_v1_nav_grad_c1_2</key>
+	<string>#00000000</string>
+	<key>rb_v1_nav_grad_c1_1</key>
+	<string>#000000B3</string>
+	<key>rb_v1_timer_c08</key>
+	<string>#FD6B4C</string>
+	<key>rb_v1_icon_c02</key>
+	<string>#9BDF9B</string>
+	<key>rb_v1_icon_c01</key>
+	<string>#FFFFFFCC</string>
+	<key>rb_v1_bg_c5</key>
+	<string>#0000001A</string>
+	<key>rb_v1_bg_c4</key>
+	<string>#00000033</string>
+	<key>rb_v1_btn_c3</key>
+	<string>#53AF83</string>
+	<key>rb_v1_bg_c01</key>
+	<string>#3D3026B3</string>
+	<key>rb_v1_txt_c09</key>
+	<string>#00000033</string>
+	<key>rb_v1_txt_c08</key>
+	<string>#FD6B4C</string>
+	<key>rb_v1_txt_c07</key>
+	<string>#F2AD00</string>
+	<key>rb_v1_txt_c06</key>
+	<string>#53AF83</string>
+	<key>rb_v1_txt_c05</key>
+	<string>#5B9472</string>
+	<key>rb_v1_txt_c04</key>
+	<string>#373737</string>
+	<key>rb_v1_txt_c03</key>
+	<string>#BFC2C3</string>
+	<key>rb_v1_txt_c02</key>
+	<string>#FFFFFF</string>
+	<key>rb_v1_txt_c01</key>
+	<string>#3D3026B3</string>
 	<key>rb_color_txt_white100</key>
 	<string>#FFFFFF</string>
 	<key>rb_color_txt_declare</key>
