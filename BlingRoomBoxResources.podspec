@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'BlingRoomBoxResources'
-  s.version      = '0.0.4' 
+  s.version      = '0.0.5' 
   s.summary      = 'RoomBox'
   s.homepage     = "https://github.com/roombox-lab/BlingRoomBoxResources.git"
   s.license      = "MIT"
