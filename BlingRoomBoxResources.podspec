@@ -1,17 +1,17 @@
 Pod::Spec.new do |s|
   s.name         = 'BlingRoomBoxResources'
-  s.version      = '0.0.3' 
-  s.summary      = 'xdf'
-  s.homepage     = "https://gitlab.66xue.com/specs/BlingRoomBoxResources.git"
+  s.version      = '0.0.4' 
+  s.summary      = 'RoomBox'
+  s.homepage     = "https://github.com/roombox-lab/BlingRoomBoxResources.git"
   s.license      = "MIT"
-  s.author       = { "" => "" }
+  s.author       = { "LYongLiang" => "liangyl0515@163.com" }
   s.social_media_url   = ""
-  s.source = {:git => 'https://gitlab.66xue.com/specs/BlingRoomBoxResources.git', :tag => s.version}
+  s.source = {:git => 'https://github.com/roombox-lab/BlingRoomBoxResources.git', :tag => s.version}
   
-  s.platform = :ios,'9.0'
+  s.platform = :ios,'10.0'
   s.static_framework = true
 #  s.default_subspec = 'Core'
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
   s.requires_arc = true
   s.exclude_files = 'BlingRoomBoxResources/BlingRoomBoxResources/info.plist'
   s.source_files = 'BlingRoomBoxResources/BlingRoomBoxResources/BlingRoomBoxResources.h'
