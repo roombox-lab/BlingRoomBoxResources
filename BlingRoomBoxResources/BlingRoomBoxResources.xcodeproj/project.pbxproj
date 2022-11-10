@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0F3FC4D4251AEC8A007CC2DB /* BlingRoomBoxResources.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F3FC4D2251AEC8A007CC2DB /* BlingRoomBoxResources.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0F3FC4E2251B327E007CC2DB /* whiteboard_roombox.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F3FC4E1251B327E007CC2DB /* whiteboard_roombox.pdf */; };
+		1EFB5085291CE768004C7F19 /* RoomBoxPlayBack.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EFB5084291CE768004C7F19 /* RoomBoxPlayBack.xcassets */; };
 		6035BFB4252031A00095829F /* bling_board_pic_loading_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 6035BF92252031A00095829F /* bling_board_pic_loading_0.png */; };
 		6035BFB5252031A00095829F /* bling_board_pic_loading_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6035BF93252031A00095829F /* bling_board_pic_loading_1.png */; };
 		6035BFB6252031A00095829F /* bling_board_pic_loading_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6035BF94252031A00095829F /* bling_board_pic_loading_2.png */; };
@@ -60,6 +61,7 @@
 		0F3FC4D2251AEC8A007CC2DB /* BlingRoomBoxResources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlingRoomBoxResources.h; sourceTree = "<group>"; };
 		0F3FC4D3251AEC8A007CC2DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0F3FC4E1251B327E007CC2DB /* whiteboard_roombox.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = whiteboard_roombox.pdf; sourceTree = "<group>"; };
+		1EFB5084291CE768004C7F19 /* RoomBoxPlayBack.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = RoomBoxPlayBack.xcassets; sourceTree = "<group>"; };
 		6035BF92252031A00095829F /* bling_board_pic_loading_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bling_board_pic_loading_0.png; sourceTree = "<group>"; };
 		6035BF93252031A00095829F /* bling_board_pic_loading_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bling_board_pic_loading_1.png; sourceTree = "<group>"; };
 		6035BF94252031A00095829F /* bling_board_pic_loading_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bling_board_pic_loading_2.png; sourceTree = "<group>"; };
@@ -147,6 +149,7 @@
 		0F3FC4DA251AED61007CC2DB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				1EFB5084291CE768004C7F19 /* RoomBoxPlayBack.xcassets */,
 				6035BF8F252031A00095829F /* JsonAnimation */,
 				0F3FC4E0251B327E007CC2DB /* pdf */,
 			);
@@ -377,6 +380,7 @@
 				60C85C63251C41CD0053C41F /* colorConfig_bl_l.plist in Resources */,
 				7E143FD7252065A4009171DF /* rd_animat_repair_img02.png in Resources */,
 				6035BFB8252031A00095829F /* classBegin_bling_img_12.png in Resources */,
+				1EFB5085291CE768004C7F19 /* RoomBoxPlayBack.xcassets in Resources */,
 				0F3FC4E2251B327E007CC2DB /* whiteboard_roombox.pdf in Resources */,
 				6035BFC7252031A00095829F /* classBegin_bling_img_24.png in Resources */,
 				6035BFC6252031A00095829F /* classBegin_bling_img_2.png in Resources */,
